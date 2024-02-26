@@ -1,0 +1,3 @@
+Harry Potter,JK Rowling,29,2
+Start With Why,Simon Sinek,10,1.5 
+Programming With Python,John Smith,19,1.5
